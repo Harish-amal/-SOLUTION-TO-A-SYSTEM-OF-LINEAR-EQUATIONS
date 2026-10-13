@@ -23,7 +23,8 @@ b = np.array([-9, 4, -1])
 c = np.linalg.solve(a,b)
 
 print(c)
-## Output:<img width="1311" height="797" alt="image" src="https://github.com/user-attachments/assets/407ca8a3-45ca-4d04-af9d-d49b3045832c" />
+## Output:<img width="966" height="851" alt="image" src="https://github.com/user-attachments/assets/e584900e-bde1-433f-aabf-ffffa29b0ce8" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
